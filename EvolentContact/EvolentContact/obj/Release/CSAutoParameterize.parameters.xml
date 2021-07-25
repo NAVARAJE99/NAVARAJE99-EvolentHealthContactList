@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="EvolentHealthContactEntities-Web.config Connection String" description="EvolentHealthContactEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Model.EvolentModel.csdl|res://*/Model.EvolentModel.ssdl|res://*/Model.EvolentModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=navadev.database.windows.net;initial catalog=EvolentHealthContact;persist security info=True;user id=Evolent;password=1231!#ASDF!a;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Navnath\\personal\\Evolent\ Health\\EvolentContact\\EvolentContact\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='EvolentHealthContactEntities']/@connectionString" />
+  </parameter>
+</parameters>

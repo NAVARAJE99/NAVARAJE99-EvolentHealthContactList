@@ -1,0 +1,12 @@
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\bin\Release\EvolentContact.Services.dll
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\bin\Release\EvolentContact.Services.pdb
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\bin\Release\EvolentContact.DAL.dll
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\bin\Release\EntityFramework.dll
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\bin\Release\EvolentContact.DAL.pdb
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\bin\Release\EvolentContact.DAL.dll.config
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\bin\Release\EntityFramework.xml
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\obj\Release\EvolentContact.Services.csproj.AssemblyReference.cache
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\obj\Release\EvolentContact.Services.csproj.CoreCompileInputs.cache
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\obj\Release\EvolentContact.Services.csproj.CopyComplete
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\obj\Release\EvolentContact.Services.dll
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.Services\obj\Release\EvolentContact.Services.pdb

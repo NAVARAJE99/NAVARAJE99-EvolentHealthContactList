@@ -1,0 +1,11 @@
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.DAL\bin\Debug\EvolentContact.DAL.dll.config
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.DAL\bin\Debug\EvolentContact.DAL.dll
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.DAL\bin\Debug\EvolentContact.DAL.pdb
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.DAL\bin\Debug\EntityFramework.dll
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.DAL\bin\Debug\EntityFramework.xml
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.DAL\obj\Debug\EvolentContact.DAL.csproj.CoreCompileInputs.cache
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.DAL\obj\Debug\EvolentContact.DAL.csproj.CopyComplete
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.DAL\obj\Debug\EvolentContact.DAL.dll
+D:\Navnath\personal\Evolent Health\EvolentContact\EvolentContact.DAL\obj\Debug\EvolentContact.DAL.pdb
